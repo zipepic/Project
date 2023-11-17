@@ -1,0 +1,8 @@
+[submodule "Core"]
+	path = Core
+	url = git@github.com:zipepic/Core.git
+	branch = release/1.0.0
+[submodule "AuthenticationServer"]
+	path = AuthenticationServer
+	url = git@github.com:zipepic/AuthenticationServer.git
+	branch = release/1.0.0
