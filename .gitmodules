@@ -9,11 +9,11 @@
 	branch = release/1.0.0
 
 [submodule "ResourceServerExample"]
-	path = AuthenticationServer
+	path = ResourceServerExample
 	url = git@github.com:zipepic/ResourceServerExample.git
 	branch = release/1.0.0
 
 [submodule "OAuthClient"]
-	path = AuthenticationServer
+	path = OAuthClient
 	url = git@github.com:zipepic/OAuthClient.git
 	branch = release/1.0.0
