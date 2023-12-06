@@ -2,7 +2,18 @@
 	path = Core
 	url = git@github.com:zipepic/Core.git
 	branch = release/1.0.0
+
 [submodule "AuthenticationServer"]
 	path = AuthenticationServer
 	url = git@github.com:zipepic/AuthenticationServer.git
+	branch = release/1.0.0
+
+[submodule "ResourceServerExample"]
+	path = AuthenticationServer
+	url = git@github.com:zipepic/ResourceServerExample.git
+	branch = release/1.0.0
+
+[submodule "OAuthClient"]
+	path = AuthenticationServer
+	url = git@github.com:zipepic/OAuthClient.git
 	branch = release/1.0.0
