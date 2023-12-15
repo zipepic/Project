@@ -7,8 +7,11 @@
 	path = AuthenticationServer
 	url = git@github.com:zipepic/AuthenticationServer.git
 	branch = release/1.0.0
-
 [submodule "OAuthClient"]
 	path = OAuthClient
 	url = git@github.com:zipepic/OAuthClient.git
+	branch = release/1.0.0
+[submodule "ResourceServerExample"]
+	path = ResourceServerExample
+	url = git@github.com:zipepic/ResourceServerExample.git
 	branch = release/1.0.0
